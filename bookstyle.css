@@ -214,3 +214,6 @@ button.learn_more {
     max-width: 100%; 
     width: 700px;
   }
+    .about-content {
+    max-width: 500px;
+  }
