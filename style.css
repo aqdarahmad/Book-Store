@@ -30,12 +30,19 @@ body{
     overflow-x:scroll;
 }
 #Fbody #total_Featured #book{
-    width: 300px;
-    height: 470px;
+    width: 250px;
+    height: 420px;
     text-align: center;
     padding: 0.33em;
-    border: 2px solid ;
-    border-color: rgb(87, 82, 82);
+    border: 1px solid ;
+    border-color: #514b4b;
     margin: auto 0.66em ;
 
+}
+#Fbody #total_Featured #book:hover 
+{
+    box-shadow: 0 0 5px #0e87a5;
+}
+#Fbody #total_Featured #book h2{
+    margin: 12px;;
 }
