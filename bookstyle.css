@@ -196,3 +196,9 @@ button.learn_more {
     color: #333;
   }
 
+/* About Section */
+.about-section {
+    padding: 60px 40px;
+    background-color: #fff;
+  }
+  
