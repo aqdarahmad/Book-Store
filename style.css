@@ -5,17 +5,32 @@ body{
     
 
 }
-
-h1{
+#Fbody h1{
     justify-content: center;
     align-items: center;
     display: flex;
     margin-bottom: 40px;
+    font-size: xx-large;
 }
 
 #total_Featured{
     padding: 80px  0;
+    height: 540px;
     width: 100%;
-    height: 100%;
 
+
+}
+#Fbody #total_Featured{
+    width: 96%;
+    margin: 0 auto;
+    height: 60vh;
+    display: grid;
+    grid-template-columns: repeat(15,1fr);
+    overflow: hidden;
+    overflow-x:scroll;
+}
+#Fbody #total_Featured #book{
+    width: 300px;
+    height: 470px;
+    t
 }
