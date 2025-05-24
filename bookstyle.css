@@ -141,3 +141,39 @@ nav .container {
   nav .container .nav-icons .nav_list {
     display: none;
   }
+
+  h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+#title {
+    font-size: -webkit-xxx-large;
+}
+span {
+    color: #007c91;
+}
+
+#welco_home {
+
+    margin: 13% -6% 0% 6%;
+    
+}
+#img_home {
+    width: 47%;
+    margin: -23% 0% 0% 41%;
+}
+button.learn_more {
+
+    
+    background-color: #0097a7;  
+    color: white;               
+    padding: 10px 20px;         
+    border: none;              
+    border-radius: 4px;      
+    font-size: 16px;            
+    cursor: pointer;            
+    text-align: center;
+    text-decoration: none;     
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
