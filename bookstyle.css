@@ -208,4 +208,9 @@ button.learn_more {
     gap: 40px;
     flex-wrap: wrap;
   }
-  
+    .about-image img {
+    display: block;
+    height: auto;
+    max-width: 100%; 
+    width: 700px;
+  }
