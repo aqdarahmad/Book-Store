@@ -228,3 +228,20 @@ button.learn_more {
     margin-bottom: 20px;
     color: #444;
   }
+
+  .button {
+    background-color: #0097a7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #007c91;
+  }
+  
