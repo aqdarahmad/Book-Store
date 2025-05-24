@@ -44,5 +44,9 @@ body{
     box-shadow: 0 0 5px #0e87a5;
 }
 #Fbody #total_Featured #book h2{
-    margin: 12px;;
+    margin: 12px;
+}
+#Fbody #total_Featured #book h5{
+    margin: 12px;
+    color: #0e87a5;
 }
