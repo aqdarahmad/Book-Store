@@ -25,3 +25,9 @@
    .intro_page h1 span {
     color: lightseagreen;
   }
+   .intro_page p {
+    font-size: 1rem;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    line-height: 1.6;
+    color: #333;}
