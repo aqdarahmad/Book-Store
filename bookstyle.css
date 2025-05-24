@@ -184,3 +184,7 @@ button.learn_more {
     flex: 1 1 50%;
     padding: 2em;
   }
+   .about .aboutUs_card h2 {
+    font-size: 2rem;
+    color: black;
+  }
