@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-color:#fff;
+    
 
 }
 h1{
@@ -9,7 +10,34 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-#total{
-    display: flex;
-  
+h5{
+    color: #149197;
 }
+
+#total{
+  display: flex;
+  flex: repeat;
+  gap: 30px;
+  margin: 0 ;
+}
+#book {
+  background-color: #fff;
+  padding: 20px;
+  border: 15px;
+  box-shadow: 0 4px 10px#000;
+  transition: transform 0.3s ease;
+}
+#book:hover{
+    border: #149197;
+}
+/*
+#book button {
+  background-color: #fff;
+  color: #000;
+  padding: 10px 20px;
+  border: 30px;
+
+}
+button:hover{
+  background-color: #149197;
+}*/
