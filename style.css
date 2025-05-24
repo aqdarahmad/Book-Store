@@ -32,5 +32,10 @@ body{
 #Fbody #total_Featured #book{
     width: 300px;
     height: 470px;
-    t
+    text-align: center;
+    padding: 0.33em;
+    border: 2px solid ;
+    border-color: rgb(87, 82, 82);
+    margin: auto 0.66em ;
+
 }
