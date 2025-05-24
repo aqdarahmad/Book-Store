@@ -36,3 +36,12 @@
     font-size: 2.5rem;
     color: black;
   }
+  
+   
+  .about, header {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2em;
+  }
