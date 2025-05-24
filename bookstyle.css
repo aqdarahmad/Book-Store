@@ -217,3 +217,8 @@ button.learn_more {
     .about-content {
     max-width: 500px;
   }
+    .about-content h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #000;
+  }
