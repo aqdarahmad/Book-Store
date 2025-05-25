@@ -168,3 +168,13 @@
   color: #444;
   margin: 0 15px 20px;
 }
+
+
+/* Footer */
+.site-footer {
+  background-color: #eaeaea;
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  width: 100%;
+}
