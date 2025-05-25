@@ -154,3 +154,17 @@
   height: auto;
   display: block;
 }
+
+
+#blog-section h3 {
+  margin: 10px 15px 5px;
+  font-size: 16px;
+  color: #0097a7;
+}
+ 
+#blog-section p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #444;
+  margin: 0 15px 20px;
+}
