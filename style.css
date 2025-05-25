@@ -25,3 +25,17 @@
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
   transition: transform 0.3s ease;
 }
+
+.testimonials .card-1:hover,
+.testimonials .card-2:hover,
+.testimonials .card-3:hover,
+.testimonials .card-4:hover {
+  transform: translateY(-5px);
+}
+
+.testimonials img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
