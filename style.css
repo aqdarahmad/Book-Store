@@ -130,3 +130,15 @@
   margin-bottom: 30px;
   font-size: 30px;
 }
+
+
+#blog-section .blog-entry {
+  width: 280px;
+  border: 1px solid #d9d9d9;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #ffffff;
+  position: relative;
+}
