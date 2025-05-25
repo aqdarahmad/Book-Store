@@ -108,3 +108,18 @@
 .feedback-banner button:hover {
   background-color: #007c91;
 }
+
+
+
+/* Blog Section */
+#blog-section {
+  padding: 60px 20px;
+  background-color: #fff;
+}
+
+#blog-section > div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
