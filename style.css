@@ -1,0 +1,13 @@
+/* Testimonials */
+.testimonials {
+  padding: 60px 40px;
+  background-color: #fff;
+}
+
+.testimonials > .box-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 40px;
+}
