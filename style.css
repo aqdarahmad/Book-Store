@@ -39,3 +39,16 @@
   border-radius: 50%;
   margin-bottom: 10px;
 }
+
+.testimonials h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #000;
+}
+
+.testimonials p {
+  font-size: 14px;
+  color: #444;
+  margin: 10px 0;
+}
