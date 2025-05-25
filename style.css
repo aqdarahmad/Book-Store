@@ -178,3 +178,9 @@
   padding: 1em;
   width: 100%;
 }
+
+.site-footer .footer-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
