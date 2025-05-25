@@ -11,3 +11,17 @@
   gap: 20px;
   margin-bottom: 40px;
 }
+
+.testimonials .card-1,
+.testimonials .card-2,
+.testimonials .card-3,
+.testimonials .card-4 {
+  background-color: #fff;
+  border: 1px solid #bde3e6;
+  padding: 20px;
+  width: 250px;
+  position: relative;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease;
+}
