@@ -59,7 +59,7 @@ margin-bottom:0.937em ;
 }
 
 #total_Featured::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 0 5px rgba(0,  20, 0.2);
   border-radius: 0.625em;
 }
 
@@ -69,7 +69,7 @@ margin-bottom:0.937em ;
 }
 #total_Featured {
   scrollbar-width: thin;
-  scrollbar-color: #63bed5 #413e3e18 ;
+  scrollbar-color: #63bed5 #11dedb18 ;
 }
 #total_Featured #book button {
   border: 2px solid #0e87a5;
