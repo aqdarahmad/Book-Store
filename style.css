@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#fff;
+  
+}
+#Fbody h1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: xx-large;
+ 
+    
+}
+
+#total_Featured{
+    padding-top: 0.625em;
+    height: 12.5em;
+    width: 100%;
+    padding-bottom: 8em;
+
+
+}
+#Fbody #total_Featured{
+    width: 96%;
+    margin: 0 auto;
+    height: 50vh;
+    display: grid;
+    grid-template-columns: repeat(15,1fr);
+    overflow: hidden;
+    overflow-x:scroll;
+}
+#Fbody #total_Featured #book{
+    width: 15.625em;
+    height: 28.125em;
+    text-align: center;
+    padding: 0.33em;
+    border: 0.125em solid;
+    border-color: #7c7979;
+    margin: auto 0.875em ;
+
+}
+#Fbody #total_Featured #book:hover 
+{
+    box-shadow: 0 0 0.33em #0e87a5;
+}
+#Fbody #total_Featured #book h2{
+    margin: 12px;
+}
+#Fbody #total_Featured #book h5{
+    margin: 0.75em;
+    color: #0e87a5 ;
+}
+#Fbody #total_Featured #book p{
+font-weight: bold;
+margin: 12px;
+margin-bottom:0.937em ;
+}
+
+#total_Featured::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgba(0,  20, 0.2);
+  border-radius: 0.625em;
+}
+
+#total_Featured::-webkit-scrollbar-thumb {
+  
+  border-radius: 0.625em;
+}
+#total_Featured {
+  scrollbar-width: thin;
+  scrollbar-color: #63bed5 #11dedb18 ;
+}
+#total_Featured #book button {
+  border: 2px solid #0e87a5;
+  padding: 8px 16px;      
+  background-color: white; 
+}
+
+#total_Featured #book button:hover {
+  background-color: #e0f0ff; 
+}
